@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
 <!---LeetCode Topics End-->

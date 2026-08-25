@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |

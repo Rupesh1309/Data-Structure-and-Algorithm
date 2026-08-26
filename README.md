@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

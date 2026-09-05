@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |

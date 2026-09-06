@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

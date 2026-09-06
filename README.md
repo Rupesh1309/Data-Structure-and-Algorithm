@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |

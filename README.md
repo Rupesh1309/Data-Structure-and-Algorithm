@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search

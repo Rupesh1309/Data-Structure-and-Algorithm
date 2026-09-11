@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0137-single-number-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |

@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3794-reverse-string-prefix](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3794-reverse-string-prefix) |

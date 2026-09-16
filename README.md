@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0078-subsets) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 ## Pigeonhole Principle

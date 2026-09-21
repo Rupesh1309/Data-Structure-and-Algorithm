@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1486-xor-operation-in-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0633-sum-of-square-numbers) |
 ## Matrix
 |  |
 | ------- |

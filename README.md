@@ -249,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->

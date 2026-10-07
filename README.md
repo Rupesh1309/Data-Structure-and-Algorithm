@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3794-reverse-string-prefix](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1534-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |

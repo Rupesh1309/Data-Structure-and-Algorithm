@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0922-sort-array-by-parity-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |

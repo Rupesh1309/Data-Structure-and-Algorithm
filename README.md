@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Dynamic Programming
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Greedy
 |  |
 | ------- |

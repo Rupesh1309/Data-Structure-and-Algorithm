@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Array
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0922-sort-array-by-parity-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1534-count-good-triplets](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1534-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0633-sum-of-square-numbers](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0633-sum-of-square-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix

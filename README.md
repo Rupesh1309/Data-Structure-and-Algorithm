@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3794-reverse-string-prefix](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3794-reverse-string-prefix) |
+| [3838-weighted-word-mapping](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3838-weighted-word-mapping) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3838-weighted-word-mapping](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3904-smallest-stable-index-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3838-weighted-word-mapping](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |

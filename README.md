@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |

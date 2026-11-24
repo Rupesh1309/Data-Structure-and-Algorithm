@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2390-removing-stars-from-a-string](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3794-reverse-string-prefix](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3794-reverse-string-prefix) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2390-removing-stars-from-a-string](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/3838-weighted-word-mapping) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |

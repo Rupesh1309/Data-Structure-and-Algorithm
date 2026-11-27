@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0817-linked-list-components](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0817-linked-list-components) |
 | [0905-sort-array-by-parity](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0905-sort-array-by-parity) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

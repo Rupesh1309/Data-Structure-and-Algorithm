@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0445-add-two-numbers-ii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rupesh1309/Data-Structure-and-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
